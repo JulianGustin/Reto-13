@@ -1,6 +1,6 @@
 # Reto-13
-Reto 13 de la clase de PDC
-T.I : 1081275973
+Reto 13 de la clase de PDC  
+T.I : 1081275973  
 JULIAN JACOBO GUSTIN MORENO
 ***
 ## Punto 1
